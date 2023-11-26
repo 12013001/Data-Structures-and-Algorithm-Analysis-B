@@ -1,0 +1,4 @@
+C:\DSAApro G型\inputs\sample2.txt
+./inputs/sample2.txt
+--gui
+--terminal
